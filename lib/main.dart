@@ -11,18 +11,20 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Container(
-        decoration: const BoxDecoration(
-          gradient: LinearGradient(
-            colors: [
-              Colors.deepPurple,
-              Color.fromARGB(255, 77, 24, 168),
-            ],
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
+      home: Scaffold(
+        body: Container(
+          decoration: const BoxDecoration(
+            gradient: LinearGradient(
+              colors: [
+                Colors.deepPurple,
+                Color.fromARGB(255, 77, 24, 168),
+              ],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+            ),
           ),
+          child: const StartScreen(),
         ),
-        child: const StartScreen(),
       ),
     );
   }
