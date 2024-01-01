@@ -1,4 +1,4 @@
-# Quiz App for Android and IOS![Uploading quiz_app.svg…]()
+# Quiz App for Android and IOS
 
 ![quiz_app](https://github.com/otabekinha/flutter_quiz_app/assets/131828690/9bb80d69-2a6c-46f9-80dd-3c054e52d60a)
 
