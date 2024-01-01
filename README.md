@@ -2,7 +2,7 @@
 
 ![quiz_app](https://github.com/otabekinha/flutter_quiz_app/assets/131828690/9bb80d69-2a6c-46f9-80dd-3c054e52d60a)
 
-Jump into learning fun with our Quiz App! Just hit 'Start' to begin. Answer questions, pick the right ones, and check your score at the end. If you want more, no worries – you can reset and start again. It's easy, interactive, and a great way to test your knowledge!
+Jump into learning fun with our Quiz App! Just hit 'Click me' to begin. Answer questions, pick the right ones, and check your score at the end. If you want more, no worries – you can reset and start again. It's easy, interactive, and a great way to test your knowledge!
 
 ## Getting Started
 
