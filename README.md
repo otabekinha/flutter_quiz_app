@@ -1,7 +1,8 @@
 # Quiz App for Android and IOS
 
-![quiz_app](https://github.com/otabekinha/flutter_quiz_app/assets/131828690/6f5988f4-6ca4-488e-8d83-23628490d09b)
+![quiz_app](https://github.com/otabekinha/flutter_quiz_app/assets/131828690/d79427e3-1169-4e14-b364-dd6dad24f277)
 
+Jump into learning fun with our Quiz App! Just hit 'Start' to begin. Answer questions, pick the right ones, and check your score at the end. If you want more, no worries – you can reset and start again. It's easy, interactive, and a great way to test your knowledge!
 
 ## Getting Started
 
