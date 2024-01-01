@@ -1,6 +1,6 @@
-# quiz_app
+# Quiz App for Android and IOS
 
-A new Flutter project.
+![quiz_app](https://github.com/otabekinha/flutter_quiz_app/assets/131828690/d7292189-ac68-4a06-8519-cefc1d5006b1)
 
 ## Getting Started
 
