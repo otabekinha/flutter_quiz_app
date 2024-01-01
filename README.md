@@ -1,6 +1,7 @@
 # Quiz App for Android and IOS
 
-![quiz_app](https://github.com/otabekinha/flutter_quiz_app/assets/131828690/d7292189-ac68-4a06-8519-cefc1d5006b1)
+![quiz_app](https://github.com/otabekinha/flutter_quiz_app/assets/131828690/6f5988f4-6ca4-488e-8d83-23628490d09b)
+
 
 ## Getting Started
 
