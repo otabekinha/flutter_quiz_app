@@ -32,7 +32,7 @@ class StartScreen extends StatelessWidget {
             ),
             icon: const Icon(Icons.arrow_right_alt),
             label: const Text('Click me'),
-          )
+          ),
         ],
       ),
     );
